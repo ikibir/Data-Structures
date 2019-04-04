@@ -1,0 +1,5 @@
+hey people can someone please tell me how to read from a .txt file instead of showing the file on screen??
+
+I have tried the tutorial but I get lost very easy
+
+Thanks for all yoru help guys
